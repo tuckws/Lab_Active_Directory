@@ -16,6 +16,8 @@ The purpose of this lab is to develop knowledge and experience working with Acti
 #### Steps
 ##### Initial Concept
 I am creating a AD environment for the Acme Corporation. The environment will have approximately 1000 users. See the following network diagram for the plan:
+
 ![AD Network Diagram](https://imgur.com/a/0EJ6tRI)
+
 ##### VMWare Setup
 1. VMWare setup is relatively straight forward. Using eval versions for Windows 10 Pro and Windows Server 2019, I created 2x VMs within VMWare. Note that Windows Server 2019 serves as the domain controller which requires two NICs - internal and external in order to facilitate DNS and DHCP serving for the domain. 
