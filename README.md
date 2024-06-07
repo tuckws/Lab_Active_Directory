@@ -16,6 +16,7 @@ The purpose of this lab is to develop knowledge and experience working with Acti
 #### Steps
 ##### Initial Concept
 We are creating a AD environment for the Acme Corporation. The environment will have approximately 1000 users. See the following network diagram for the plan:
+
 ![](https://github.com/tuckws/Lab_Active_Directory/blob/main/images/AD_Network_Diagram_v1.jpg?raw=true)
 ##### VMWare Setup
 1. VMWare setup is relatively straight forward. Using eval versions for Windows 10 Pro and Windows Server 2019, we created 2x VMs within VMWare. 
