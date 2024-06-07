@@ -1,7 +1,7 @@
 ## Lab_Active_Directory
 
 #### Purpose
-The purpose of this lab is to develop knowledge and experience working with Active Directory from initial setup to created users in groups with domain access. The steps outlined here provide a working model to develop enterprise level environments for future testing with external network integration, vulnerability assessment, threat tools and of course security configuration baseline learned from SANS and NIST/CIS.
+The purpose of this lab is to develop knowledge and experience working with Active Directory from initial setup to created users in groups with domain access. The steps outlined here provide a working model to develop enterprise level environments for future testing with external network integration, vulnerability assessment, threat tools and of course security configuration baselines learned from SANS and NIST/CIS.
 #### Lessons Learned
 - Active Directory installation and configuration for Windows Server 2019.
 - DNS setup and configuration with Domain Controller.
@@ -15,7 +15,7 @@ The purpose of this lab is to develop knowledge and experience working with Acti
 - PowerShell.
 #### Steps
 ##### Initial Concept
-We are creating a AD environment for the Acme Corporation. The environment will have approximately 1000 users. See the following network diagram for the plan:
+We are creating an AD environment for the Acme Corporation. The environment will have approximately 1000 users. See the following network diagram for the plan:
 
 ![](https://github.com/tuckws/Lab_Active_Directory/blob/main/images/AD_Network_Diagram_v1.jpg?raw=true)
 ##### VMWare Setup
