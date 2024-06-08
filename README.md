@@ -85,4 +85,4 @@ foreach ($n in $USER_FIRST_LAST_LIST) {
 ##### Troubleshooting
 1. Ensure we go on DC-01 and CLIENT-001 in order to `ping` both hosts and to `ping` the Internet. Both communicate internally and externally.
 ##### Now What?
-1. At this point, we can apply NIST and CIS framework to our enterprise, setup a SIEM, attack the network, test, break, rebuild, play, etc.
+1. At this point, we can apply NIST and CIS framework to our enterprise, setup a SIEM, attack the network, test, break, rebuild, play, etc. More to come. 
