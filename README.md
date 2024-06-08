@@ -15,7 +15,7 @@ The purpose of this lab is to develop knowledge and experience working with Acti
 - PowerShell.
 #### Steps
 ##### Initial Concept
-We are creating an AD environment for the Acme Corporation. The environment will have approximately 1000 users. See the following network diagram for the plan:
+We are creating an AD environment for the Acme Corporation (Yes, I watched Looney Tunes as a kid). The environment will have approximately 1000 users. See the following network diagram for the plan:
 
 ![](https://github.com/tuckws/Lab_Active_Directory/blob/main/images/AD_Network_Diagram_v1.jpg?raw=true)
 ##### VMWare Setup
